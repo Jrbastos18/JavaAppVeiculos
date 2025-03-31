@@ -23,6 +23,7 @@
 <h2>Referências</h2>
 <a name="Referencias"></a>
 <cite>DEITEL, Harvey M. Java Como Programar. 8. ed. São Paulo (SP): Pearson Prentice Hall, 2010. ISBN 9788576055631.</cite>
+<br>
 <a href="https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/Como-e-calculado-IPVA.aspx" target="_blank">Portal da Fazenda SP - Como é Calculado o IPVA</a>
 <br>
 <a href="https://blog.pagseguro.uol.com.br/ipva-sp" target="_blank">Blog PagSeguro UOL - IPVA SP</a>
