@@ -7,9 +7,22 @@
 
 <h2>Índice</h2>
 <ol>
-  <li>Diagrama de Classe</li>
-  <li>Layout do Formulário</li>
-  <li>Referências</li>
+  <li><a href="#Diagrama">Diagrama de Classe</a></li>
+  <li><a href="#Layout">Layout do Formulário</a></li>
+  <li><a href="#Referencias">Referências</a></li>
 </ol>
 
 <h2>Diagrama de Classe</h2>
+<a name="Diagrama"></a>
+<img src="https://github.com/Jrbastos18/JavaAppVeiculos/blob/main/img/DiagramaClasseVeiculo.png?raw=true" alt="Diagrama de Classe Veiculo">
+
+<h2>Layout do Formulário</h2>
+<a name="Layout"></a>
+<img src="https://github.com/Jrbastos18/JavaAppVeiculos/blob/main/img/LayoutFormulario.png?raw=true" alt="Layout do Formulário">
+
+<h2>Referências</h2>
+<a name="Referencias"></a>
+<cite>DEITEL, Harvey M. Java Como Programar. 8. ed. São Paulo (SP): Pearson Prentice Hall, 2010. ISBN 9788576055631.</cite>
+<a href="https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/Como-e-calculado-IPVA.aspx" target="_blank">Portal da Fazenda SP - Como é Calculado o IPVA</a>
+<br>
+<a href="https://blog.pagseguro.uol.com.br/ipva-sp" target="_blank">Blog PagSeguro UOL - IPVA SP</a>
